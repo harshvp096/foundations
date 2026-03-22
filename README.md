@@ -1,2 +1,2 @@
-# BCA-CPP-Revision
-Revising and practicing C++ questions 
+# foundations
+Building a strong foundation with learning skills and creating projects.
